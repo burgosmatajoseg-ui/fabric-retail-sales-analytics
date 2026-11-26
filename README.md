@@ -48,7 +48,8 @@ The organization requires a centralized platform capable of:
 
 ## High-Level Architecture
 
-architecture/lakehouse_architectureDF.png
+![Lakehouse Architecture](architecture/lakehouse_architectureDF.png)
+```
 
 # Technologies Used
 
