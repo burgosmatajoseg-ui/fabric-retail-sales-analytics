@@ -40,17 +40,7 @@ The organization requires a centralized platform capable of:
 
 ---
 
-# Architecture
-
-## High-Level Architecture
-
-architecture/high_level_architecture.png
-
-## Data Flow
-
-architecture/data_flow.png
-
-## Lakehouse Architecture
+# Solution Architecture
 
 architecture/lakehouse_architecture.png
 
