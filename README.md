@@ -42,34 +42,7 @@ The organization requires a centralized platform capable of:
 
 # Solution Architecture
 
-The solution follows a Medallion Architecture approach.
-
-```text
-Source Systems
-│
-├── POS
-├── ERP
-├── Inventory
-├── E-Commerce
-└── Loyalty
-│
-▼
-Fabric Data Factory
-│
-▼
-OneLake
-│
-├── Bronze Layer
-│
-├── Silver Layer
-│
-└── Gold Layer
-│
-▼
-SQL Endpoint
-│
-▼
-Power BI Dashboards
+![Lakehouse Architecture](architecture/lakehouse_architecture.png)
 ```
 
 ---
