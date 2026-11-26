@@ -49,7 +49,7 @@ The organization requires a centralized platform capable of:
 
 ## High-Level Architecture
 
-![High Level Architecture](architecture/high_level_architectureDF.png)
+![High Level Architecture](architecture/high_level_architecture.png)
 ```
 
 # Technologies Used
