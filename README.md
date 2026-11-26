@@ -332,10 +332,5 @@ Specialist in Enterprise Data Integration, ETL Development, Data Warehousing, Mi
 Website:
 https://joseburgos-dataengineer.com
 
-LinkedIn:
-(Add your LinkedIn profile)
-
-GitHub:
-(Add your GitHub profile)
 
 ---
