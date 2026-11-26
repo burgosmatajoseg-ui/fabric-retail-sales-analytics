@@ -40,9 +40,14 @@ The organization requires a centralized platform capable of:
 
 ---
 
-# Solution Architecture
+## Lakehouse Architecture
 
-architecture/lakehouse_architecture.png
+![Lakehouse Architecture](./architecture/lakehouse_architecture.png)
+
+## High Level Architecture
+
+![Lakehouse Architecture](./architecture/high_level_architecture.png)
+
 
 # Technologies Used
 
